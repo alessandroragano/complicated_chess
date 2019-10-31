@@ -1,8 +1,14 @@
 # Complicated Chess
 A chess-inspired game for Android developed with Java and Android APIs.
 
-## Introduction
+## Authors
 This Android app has been developed for a university's project. 
+- Alessandro Ragano
+- Francesco Foscarin
+- Giuseppe Testa
+- Rosilde Tatiana Irene
+
+## Introduction
 The game is inspired by the classical chess-game but it is different in many aspects. 
 Mostly, the roles and the skills of the characters on the board are totally different as well as the rules system which is based on a score system.
 
@@ -15,6 +21,8 @@ The app has been developed in Java through Android Studio and with the usage of 
 In this repository you find the actual code browsing through this path complicated_chess/src/main/java/com/mobileapp/polimi/maprojectg4
 
 The software has been developed following the Model-View-Controller paradigm.
+
+The JavaDoc is completed and follows the Java naming convention.
 ## Launch
 The app can be launched in two ways:
   1) Download Android Studio and the emulator. Launch the app in the emulator
