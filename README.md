@@ -24,8 +24,8 @@ A character belonging on a team can attacks an opponent's character by using its
 Some characters can use special actions: heal an ally character, freeze an opponent character, teletransport an ally character, revive an ally character.
 
 ### Game features:
-- Fight a computer player implemented using a simple AI min max algorithm
-- Play online against another human
+- Fight against the computer
+- Online game against another human
 - An interactive board where you can see the allowed target cells before making a move with one of your characters
 - Look back to your moves to learn mistakes and improve your skills
 - Save and resume a match
