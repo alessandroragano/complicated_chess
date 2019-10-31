@@ -12,6 +12,9 @@ The app has been developed in Java through Android Studio and with the usage of 
 - API version: Android API level 25
 - OS: Android Nougat early 2017
 
+In this repository you find the actual code browsing through this path complicated_chess/src/main/java/com/mobileapp/polimi/maprojectg4
+
+The software has been developed following the Model-View-Controller paradigm.
 ## Launch
 The app can be launched in two ways:
   1) Download Android Studio and the emulator. Launch the app in the emulator
