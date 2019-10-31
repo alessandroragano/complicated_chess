@@ -2,7 +2,7 @@
 A chess-inspired game for Android developed with Java and Android APIs.
 
 ## Authors
-This Android app has been developed for a university's project. 
+This Android app has been developed for a university project. 
 - Alessandro Ragano
 - Francesco Foscarin
 - Giuseppe Testa
